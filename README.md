@@ -19,6 +19,6 @@ EMMA stands **E**levation **M**ob **M**eta-**A**nalysis and is the working title
 We have already compiled a small data-base from the literature. We find great variability biodiversity gradients between studies.
 
 
-![Image](/preliminary graphs.jpg)
+[Image](/preliminary graphs.jpg)
 
-![useful image]({{ https://github.com/T-Engel/EMMA }}/preliminary graphs.jpg)
+[useful image]({{ https://github.com/T-Engel/EMMA }}/preliminary graphs.jpg)
