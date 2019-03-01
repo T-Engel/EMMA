@@ -21,4 +21,4 @@ We have already compiled a small data-base from the literature. We find great va
 
 ![Image](/preliminary graphs.jpg)
 
-![useful image]({{ site.url }}/preliminary graphs.jpg)
+![useful image]({{ https://github.com/T-Engel/EMMA }}/preliminary graphs.jpg)
