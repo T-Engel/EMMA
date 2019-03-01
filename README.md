@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Background
 
-You can use the [editor on GitHub](https://github.com/T-Engel/EMMA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Biodiversity changes along elevational gradients are among the most frequently studied phenomena in biogeography. Generations of explorers, climbers and scientist have been fascinated by the drastic changes of flora and fauna that can be experienced on a walk from the foot of a mountain to the summit. And these changes can have many faces: Species turnover, functional turnover,changes in relative abundances, total number of individuals, etc. And all of that in different taxa. Yes, biodiversity is an inherently multidimensional concept. However, traditionnally most studies center around changes of species richness along elevational gradients. The literature is full of exciting studies that mostly report declines of species richness with altitude or hump-shaped species richness patterns in different mountains all over the world. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There are meta-analyses but they are bound to use summary statistics such as species richness. After all, the trend of publishing raw data is only very recent. Yet, many of the original data are still around. If you are reading this, there are good chances that you've conducted valuable research in mountains and own such relaevant data. Maybe they are in your drawer, maybe you maintain a well organized spreadsheet, maybe you've forgotten them on that labtop that you stopped using a couple of years ago, or perhaps you keep them in appendix of your PhD thesis. Would it be nice to make your data findable and 
 
-### Markdown
+## The EMMA project (working title)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/T-Engel/EMMA/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+EMMA stands for 
