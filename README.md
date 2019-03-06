@@ -15,10 +15,12 @@ There are execellent meta-analyses that have synthesized the literature on eleva
 
 2. **Conduct a global synthesis of elevational patterns in components of species diversity** (i.e. Number of individuals, species abundance distribution, intraspecific aggregation). What underlies the frequently reported species richness trends. Do the patterns differ among taxa, biogeographic regions or scales?
 
+**If you like what we are doing, please, consider contributing your data. We are looking for species abundance data collected along elevational gradients (e.g. Site-by-Species matrices).**
+
 ## Preliminary results
 We have already compiled a small data-base from the literature. We find great variability in biodiversity patters between studies. Species richness patterns at a single scale can be dissected into changes in number of individuals (*N*) and changes in the Species abundance distribution (*S_PIE*).
 ![Image](/preliminary graphs.jpg)
-*Measurements of Biodiversity along elevational gradients:  number of individuals (N), observed species richness (S_obs) and evenness (S_PIE). Colours represent different studies that we compiled from the literature. The black line is the global trend accross studies and taxa* 
+*Figure: Measurements of Biodiversity along elevational gradients.  number of individuals (N), observed species richness (S_obs) and evenness (S_PIE). Colours represent different studies that we compiled from the literature. The black line is the global trend accross studies and taxa* 
 
 ## Who is behind MoMoB?
 MoMoB is a project of the Biodiversity Synthesis lab at the German Centre for Integrative Biodiversity Research (iDiv). It is led by Thore Engel (PhD student) under the supervision of Jonathan Chase (PI).
