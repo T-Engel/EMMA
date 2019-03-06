@@ -17,7 +17,7 @@ There are are execellent meta-analyses but they are limited to to the biodiversi
 ## Preliminary results
 We have already compiled a small data-base from the literature. We find great variability in biodiversity patters between studies. Species richness patterns at a single scale can be dissected into changes in number of individuals (*N*) and changes in the Species abundance distribution (*S_PIE*).
 ![Image](/preliminary graphs.jpg)
-*Measurements of Biodiversity along elevational gradients: observed species richness (S_obs), number of individuals (N) and evenness (S_PIE). Colours represent different studies that we compiled fromt he literature. The black line is the global trend accross studies and taxa* 
+*Measurements of Biodiversity along elevational gradients:  number of individuals (N), observed species richness (S_obs)and evenness (S_PIE). Colours represent different studies that we compiled from the literature. The black line is the global trend accross studies and taxa* 
 
 ## Who is behind MoMoB?
 MoMoB is a project of the Biodiversity Synthesis lab at the German Centre for Integrative Biodiversity Research (iDiv). It is led by Thore Engel (PhD student) under the supervision of Jonathan Chase (PI).
