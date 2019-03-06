@@ -6,9 +6,9 @@ There are are execellent meta-analyses but they are limited to to the biodiversi
 
 ## The MoMoB project 
 
-**MoMoB** stands for **Mo**untain **M**easurements **o**f   **Biodiversity**.The project aims to synthesize of measurement of biodiversity (Mob) variables along elevational gradients.  
+**MoMoB** stands for **Mo**untain **M**easurements **o**f   **B**iodiversity.The project aims to synthesize of measurement of biodiversity (Mob) variables along elevational gradients.  
 
-**The objectives of EMMA are twofold:**
+**The objectives of MoMoB are twofold:**
 
 1. **Compile a database of site by species matrices along elevational gradients to be published as a datapaper.** This will ensure your data can be found by others and have a longlasting impact.
 
@@ -18,9 +18,13 @@ There are are execellent meta-analyses but they are limited to to the biodiversi
 
 We have already compiled a small data-base from the literature. We find great variability in biodiversity patters between studies. Species richness patterns at a single scale can be dissected into changes in number of individuals (*N*) and changes in the Species abundance distribution (*S_PIE*).
 ![Image](/preliminary graphs.jpg)
+*Measurements of Biodiversity along elevational gradients: observed species richness (S_obs), number of individuals (N) and evenness (S_PIE). Colours represent different studies that we compiled fromt he literature. The black line is the global trend accross studies and taxa*  
 
 ## Who is behind MoMoB?
 
 MoMoB is a project of the Biodiversity Synthesis lab at the German Centre for Integrative Biodiversity Research (iDiv). It is led by Thore Engel (PhD student) under the supervision of Jonathan Chase (PI).
+
 Visit our [website](https://www.idiv.de/groups_and_people/core_groups/synthesis.html) to find out more about us.
+
+**For questions or data contributions, please email: thore.engel@idiv.de**
 
