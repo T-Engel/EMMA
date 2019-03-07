@@ -19,7 +19,7 @@ There are great meta-analyses that have synthesized the literature on elevationa
 
 ## Preliminary results
 We have already compiled a small data-base from the literature. We find great variability in biodiversity patters between studies. Species richness patterns at a single scale can be dissected into changes in number of individuals (*N*) and changes in the Species abundance distribution (*S_PIE*).
-![Image](´/preliminary graphs.jpg´)
+![Image](/preliminary graphs.jpg)
 *Figure: Measurements of Biodiversity along elevational gradients.  number of individuals (N), observed species richness (S_obs) and evenness (S_PIE). Colours represent different studies that we compiled from the literature. The black line is the global trend accross studies and taxa* 
 
 ## Who is behind MoMoB?
