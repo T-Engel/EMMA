@@ -13,13 +13,13 @@ There are great meta-analyses that have synthesized the literature on elevationa
 
 1. **Compile a database of site by species matrices along elevational gradients to be published as a datapaper.** This will ensure your data can be found by others and have a longlasting impact.
 
-2. **Conduct a global synthesis of elevational patterns in components of species diversity** (i.e. Number of individuals, species abundance distribution, intraspecific aggregation). What underlies the frequently reported species richness trends. Do the patterns differ among taxa, biogeographic regions or scales?
+2. **Conduct a global synthesis of elevational patterns in components of species diversity** (i.e. Number of individuals, species abundance distribution, intraspecific aggregation). What underlies the frequently reported species richness trends? Do the patterns differ among taxa, biogeographic regions or scales?
 
-**If you like what we are doing, please, consider contributing your data. We are looking for species abundance data collected along elevational gradients (e.g. Site-by-Species matrices).**
+**If you like what we are doing, please, consider contributing your data. We are looking for species abundance data collected along elevational gradients (e.g. Site-by-Species matrices). We invite you to get in touch with us to dicuss this project.**
 
 ## Preliminary results
-We have already compiled a small data-base from the literature. We find great variability in biodiversity patters between studies. Species richness patterns at a single scale can be dissected into changes in number of individuals (*N*) and changes in the Species abundance distribution (*S_PIE*).
-![Image](/preliminary graphs.jpg)
+We have already compiled a small data-base from the open source literature. We find great variability in biodiversity patters between studies. Species richness patterns at a single scale can be dissected into changes in number of individuals (*N*) and changes in the Species abundance distribution (*S_PIE*).
+![Image](/preliminary_graphs.jpg)
 *Figure: Measurements of Biodiversity along elevational gradients.  number of individuals (N), observed species richness (S_obs) and evenness (S_PIE). Colours represent different studies that we compiled from the literature. The black line is the global trend accross studies and taxa* 
 
 ## Who is behind MoMoB?
